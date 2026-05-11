@@ -2,6 +2,8 @@
 
 👉 Get it Here: https://serp.ly/tnaflix-bulk-video-downloader
 
+Run it here: https://serp.ly/tnaflix-bulk-video-downloader
+
 Download TNAFlix videos in bulk, extract direct video URLs, save metadata, and organize public video links faster with a clean bulk downloader workflow built for creators, researchers, archivists, and automation teams.
 
 ## TNAFlix Bulk Video Downloader for Fast Video Collection
@@ -47,7 +49,7 @@ You can use it to build a personal offline archive, collect reference videos, ba
 
 If you only need a simple browser-based downloader for one video at a time, use the web browser extension alternative here:
 
-https://serp.ly/tnaflix-bulk-video-downloader
+https://serp.ly/tnaflix-downloader
 
 For larger lists, repeated jobs, and structured exports, this bulk downloader is the faster option.
 
